@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\private\\utility\\seasonblendtypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\intermediate\\build\\win64\\x64\\mothernaturepackeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\seasonmanager\\definitions.seasonmanager.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\utility\\seasonblendtypes.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\seasonblendtypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

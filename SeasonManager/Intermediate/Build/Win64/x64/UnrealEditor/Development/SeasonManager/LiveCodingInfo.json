@@ -1,0 +1,31 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SeasonManager.cpp.obj": [
+			"AudioInfoPack.gen.cpp.obj",
+			"AudioSeasonComponent.gen.cpp.obj",
+			"MaterialInfoPack.gen.cpp.obj",
+			"MaterialSeasonComponent.gen.cpp.obj",
+			"MotherNature.gen.cpp.obj",
+			"ParticleInfoPack.gen.cpp.obj",
+			"ParticleSeasonComponent.gen.cpp.obj",
+			"SeasonBlendTypes.gen.cpp.obj",
+			"SeasonComponentBase.gen.cpp.obj",
+			"SeasonDefinition.gen.cpp.obj",
+			"SeasonInfoPackBase.gen.cpp.obj",
+			"SeasonManager.init.gen.cpp.obj",
+			"TimerSeasonSwitcher.gen.cpp.obj",
+			"AudioSeasonComponent.cpp.obj",
+			"MaterialSeasonComponent.cpp.obj",
+			"ParticleSeasonComponent.cpp.obj",
+			"SeasonComponentBase.cpp.obj",
+			"MotherNature.cpp.obj",
+			"SeasonManager.cpp.obj",
+			"SeasonDefinition.cpp.obj",
+			"ISeasonSwitcher.cpp.obj",
+			"TimerSeasonSwitcher.cpp.obj",
+			"SeasonDebugWidget.cpp.obj",
+			"SeasonBlendTypes.cpp.obj"
+		]
+	}
+}

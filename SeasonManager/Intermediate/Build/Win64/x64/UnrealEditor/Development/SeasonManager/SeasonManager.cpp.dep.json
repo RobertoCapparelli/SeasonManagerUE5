@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\private\\core\\seasonmanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\intermediate\\build\\win64\\x64\\mothernaturepackeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\seasonmanager\\definitions.seasonmanager.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\core\\seasonmanager.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\core\\mothernature.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\definitions\\seasondefinition.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\infopacks\\seasoninfopackbase.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\seasoninfopackbase.generated.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\seasondefinition.generated.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\switcher\\timerseasonswitcher.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\switcher\\iseasonswitcher.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\timerseasonswitcher.generated.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\mothernature.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\engineutils.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\ui\\seasondebugwidget.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

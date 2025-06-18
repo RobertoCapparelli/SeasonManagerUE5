@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\private\\infopacks\\particleinfopack.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\intermediate\\build\\win64\\x64\\mothernaturepackeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\seasonmanager\\definitions.seasonmanager.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\infopacks\\particleinfopack.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\infopacks\\seasoninfopackbase.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\source\\seasonmanager\\public\\utility\\seasonblendtypes.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\seasonblendtypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\materials\\materialparametercollection.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialparametercollection.generated.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\seasoninfopackbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\users\\39345\\desktop\\progetti unreal\\mothernaturepack\\plugins\\seasonmanager\\intermediate\\build\\win64\\unrealeditor\\inc\\seasonmanager\\uht\\particleinfopack.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SeasonManager.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Intermediate\Build\Win64\x64\MotherNaturePackEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\Module.SeasonManager.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\AudioSeasonComponent.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\MaterialSeasonComponent.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\SeasonalParticleComponent.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\SeasonComponentBase.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\MotherNature.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\SeasonManager.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\SeasonDefinition.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\AudioInfoPack.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\MaterialInfoPack.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\ParticleInfoPack.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\SeasonInfoPack.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\ISeasonSwitcher.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\TimerSeasonSwitcher.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\SeasonDebugWidget.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\SeasonBlendTypes.cpp.obj"
+"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\Default.rc2.res"
+/OUT:"C:\Users\39345\Desktop\Progetti Unreal\MotherNaturePack\Plugins\SeasonManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\SeasonManager\UnrealEditor-SeasonManager.lib"
