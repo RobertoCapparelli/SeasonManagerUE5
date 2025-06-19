@@ -66,7 +66,7 @@ Currently minimal; future updates will provide a tabbed interface to allow full 
 
 ### Demo Video
 
-_A demo video will be available soon._
+(https://www.youtube.com/watch?v=ZrN2f__ouOs)
 
 ---
 
